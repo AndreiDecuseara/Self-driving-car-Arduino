@@ -12,5 +12,5 @@ Descrierea codului
 
 Cei 4 senzori de distanta masoara constant distantele, pentru fiecare senzor fiind facuta cate o functie. In momentul in care senzorul frontal identifica un obiecte ce se afla la o distanta mai mica de 25 cm fata de el, atunci masina merge cu spatele si se intoarce spre o alta directie. Acest mers cu spatele este controlat de senzorul amplasat in spatele masinii, care are grija ca sa nu se loveasca de vreun obiect, pastrand o distanta fata de obstacolele din spatele acesteia de 10 cm. Senzorii laterali mentin o distanta de 25 cm, iar in momentul in care se identifica o distanta mai mica de 25, masina se indeparteaza de acel obiect cu virarea opusa senzorului care a identificat aceasta distanta
 
-
+Pentru videoclip accesati: https://www.youtube.com/watch?v=tRUV2Suom3M
 
